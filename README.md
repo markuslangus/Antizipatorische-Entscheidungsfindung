@@ -23,6 +23,8 @@ python FullyAnt.py
 
 Weitere Informationen zur Nutzung und Anpassung finden Sie in den Kommentaren innerhalb der ```.py```-Dateien.
 
+Hinweis: Hierbei handelt es sich nur um Berechnungen ohne grafische Darstellung. Die grafische Darstellung und Interpretation der Ergebnisse können Sie in der ```.pdf```-Datei einsehen.
+
 ## Quellen
 
 Die in der Masterarbeit verwendeten Quellen sind im Abschnitt "Literaturverzeichnis" der ```.pdf```-Datei aufgeführt.
