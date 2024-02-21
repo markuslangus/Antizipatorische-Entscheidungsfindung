@@ -10,7 +10,13 @@ In der Logistik ist die effiziente Planung von Lieferungen unter Einbeziehung sp
 
 ## Installation
 
-Zur Verwendung der Python-Skripte müssen Sie zuerst Python herunterladen. Empfehlenswert hierfür ist die offizielle Python Website https://www.python.org/. Wenn Sie bei der Installation ```add python to path``` aktivieren, können Sie Python-Files über die Kommadoleiste oder das Terminal Ihres Computers ausführen. Im Anschluss können Sie entweder dieses Repository klonen oder die Dateien direkt herunterladen.
+Zur Verwendung der Python-Skripte müssen Sie zuerst Python herunterladen. Empfehlenswert hierfür ist die offizielle Python Website https://www.python.org/. Wenn Sie bei der Installation ```add python to path``` aktivieren, können Sie Python-Files über die Kommadoleiste oder das Terminal Ihres Computers ausführen. Zusätzlich können Sie über ```pip``` Python-Bibliotheken über die Kommandoleiste installieren. Für dieses Python-Projekt wird die ```numpy```-Bibliothek benötigt. Sie können die Installation, falls noch nicht geschehen, mit folgendem Befehl in Ihrem Terminal ausführen:
+
+```bash
+pip install numpy
+```
+
+Im Anschluss können Sie entweder dieses Repository klonen oder die Dateien direkt herunterladen.
 
 ## Nutzung
 
