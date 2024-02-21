@@ -10,11 +10,11 @@ In der Logistik ist die effiziente Planung von Lieferungen unter Einbeziehung sp
 
 ## Installation
 
-Zur Verwendung der Python-Skripte müssen Sie zuerst Python herunterladen. Empfehlenswert hierfür ist die offizielle Python Website https://www.python.org/. Wenn Sie bei der Installation ```add python to path``` aktivieren, können Sie Python-Files über die Kommadoleiste oder das Terminal Ihres Computers ausführen. Im Anschluss können Sie entweder dieses Repository klonen oder die Datei direkt herunterladen.
+Zur Verwendung der Python-Skripte müssen Sie zuerst Python herunterladen. Empfehlenswert hierfür ist die offizielle Python Website https://www.python.org/. Wenn Sie bei der Installation ```add python to path``` aktivieren, können Sie Python-Files über die Kommadoleiste oder das Terminal Ihres Computers ausführen. Im Anschluss können Sie entweder dieses Repository klonen oder die Dateien direkt herunterladen.
 
 ## Nutzung
 
-Führen Sie die Dateien aus, um die zugehörigen Berechnungen zu starten.
+Führen Sie die Dateien über die Kommandoleiste oder das Terminal Ihres Computers aus. Wechseln sie hierzu per ```cd```-Befehl in das Speicherverzeichnis, wo die Dateien hinterlegt sind, und führen Sie die ```.py```-Dateien mit fogenden Befehlen aus, um die zugehörigen Berechnungen zu starten:
 
 ```bash
 python NoneAnt.py
@@ -23,7 +23,7 @@ python AntRouting.py
 python FullyAnt.py
 ```
 
-Weitere Informationen zur Nutzung und Anpassung finden Sie in den Kommentaren innerhalb der ```.py```-Dateien.
+Weitere Informationen zum Code finden Sie in den Kommentaren innerhalb der ```.py```-Dateien.
 
 **Hinweis:** Hierbei handelt es sich nur um Berechnungen ohne grafische Darstellung. Die grafische Darstellung und Interpretation der Ergebnisse können Sie in der ```.pdf```-Datei einsehen.
 
