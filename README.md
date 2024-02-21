@@ -1,8 +1,8 @@
 # Antizipatorische-Entscheidungsfindung in Shared Mobility Systemen
 
-![3](https://github.com/markuslangus/Antizipatorische-Entscheidungsfindung/assets/160343238/f452edcc-bd44-4f13-9450-46621475cd64)
-
 Dieses Projekt implementiert einen Ansatz zur Optimierung von dynamischen Tourenplänen, unter Verwendung von Techniken wie antizipatorischer Akzeptanz und Heuristiken zur effizienten Routenfindung. Ziel ist die Verbesserung der Einsatzplanung von Fahrzeugflotten durch die Berücksichtigung von Kundenanfragen, Zeitfenstern und Fahrzeugkapazitäten.
+
+![3](https://github.com/markuslangus/Antizipatorische-Entscheidungsfindung/assets/160343238/f452edcc-bd44-4f13-9450-46621475cd64)
 
 ## Motivation
 
